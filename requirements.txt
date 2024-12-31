@@ -1,0 +1,4 @@
+fake-headers
+selenium-wire
+webdriver-manager
+undetected-chromedriver
